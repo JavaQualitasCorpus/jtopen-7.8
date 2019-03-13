@@ -1,0 +1,30 @@
+component_depth: 1
+langauages:
+- java
+exclude:
+- ./bin/.*
+- ./bin/META-INF/.*
+- ./bin/META-INF/services/.*
+- ./bin/com/.*
+- ./bin/com/ibm/.*
+- ./bin/com/ibm/as400/.*
+- ./bin/com/ibm/as400/access/.*
+- ./bin/com/ibm/as400/access/doc-files/.*
+- ./bin/com/ibm/as400/access/jdbcClient/.*
+- ./bin/com/ibm/as400/access/list/.*
+- ./bin/com/ibm/as400/data/.*
+- ./bin/com/ibm/as400/micro/.*
+- ./bin/com/ibm/as400/micro/doc-files/.*
+- ./bin/com/ibm/as400/security/.*
+- ./bin/com/ibm/as400/security/auth/.*
+- ./bin/com/ibm/as400/util/.*
+- ./bin/com/ibm/as400/util/commtrace/.*
+- ./bin/com/ibm/as400/util/html/.*
+- ./bin/com/ibm/as400/util/servlet/.*
+- ./bin/com/ibm/as400/vaccess/.*
+- ./bin/com/ibm/as400/vaccess/doc-files/.*
+- ./bin/utilities/.*
+- ./bin/utilities/doc-files/.*
+- ./lib/.*
+- ./utilities/.*
+- ./utilities/doc-files/.*
