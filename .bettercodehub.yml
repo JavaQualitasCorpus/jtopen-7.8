@@ -1,5 +1,5 @@
 component_depth: 1
-langauages:
+languages:
 - java
 exclude:
 - ./bin/.*
